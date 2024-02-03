@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-W01.1.C06",
+      "appliesTo": "W01.1.C06/W01.1.C06.csproj",
+      "type": "msbuild"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+C:\Users\xivo\Documents\yaar 2\W01.1.C03\obj\Debug\net8.0\W01.1.C03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xivo\Documents\yaar 2\W01.1.C03\obj\Debug\net8.0\W01.1.C03.AssemblyInfoInputs.cache
+C:\Users\xivo\Documents\yaar 2\W01.1.C03\obj\Debug\net8.0\W01.1.C03.AssemblyInfo.cs
+C:\Users\xivo\Documents\yaar 2\W01.1.C03\obj\Debug\net8.0\W01.1.C03.csproj.CoreCompileInputs.cache

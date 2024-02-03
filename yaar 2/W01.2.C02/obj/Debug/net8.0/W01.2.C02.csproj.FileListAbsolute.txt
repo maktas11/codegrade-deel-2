@@ -1,0 +1,14 @@
+C:\Users\xivo\Documents\yaar 2\W01.2.C02\bin\Debug\net8.0\W01.2.C02.exe
+C:\Users\xivo\Documents\yaar 2\W01.2.C02\bin\Debug\net8.0\W01.2.C02.deps.json
+C:\Users\xivo\Documents\yaar 2\W01.2.C02\bin\Debug\net8.0\W01.2.C02.runtimeconfig.json
+C:\Users\xivo\Documents\yaar 2\W01.2.C02\bin\Debug\net8.0\W01.2.C02.dll
+C:\Users\xivo\Documents\yaar 2\W01.2.C02\bin\Debug\net8.0\W01.2.C02.pdb
+C:\Users\xivo\Documents\yaar 2\W01.2.C02\obj\Debug\net8.0\W01.2.C02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xivo\Documents\yaar 2\W01.2.C02\obj\Debug\net8.0\W01.2.C02.AssemblyInfoInputs.cache
+C:\Users\xivo\Documents\yaar 2\W01.2.C02\obj\Debug\net8.0\W01.2.C02.AssemblyInfo.cs
+C:\Users\xivo\Documents\yaar 2\W01.2.C02\obj\Debug\net8.0\W01.2.C02.csproj.CoreCompileInputs.cache
+C:\Users\xivo\Documents\yaar 2\W01.2.C02\obj\Debug\net8.0\W01.2.C02.dll
+C:\Users\xivo\Documents\yaar 2\W01.2.C02\obj\Debug\net8.0\refint\W01.2.C02.dll
+C:\Users\xivo\Documents\yaar 2\W01.2.C02\obj\Debug\net8.0\W01.2.C02.pdb
+C:\Users\xivo\Documents\yaar 2\W01.2.C02\obj\Debug\net8.0\W01.2.C02.genruntimeconfig.cache
+C:\Users\xivo\Documents\yaar 2\W01.2.C02\obj\Debug\net8.0\ref\W01.2.C02.dll

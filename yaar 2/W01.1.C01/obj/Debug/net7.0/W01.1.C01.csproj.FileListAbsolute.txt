@@ -1,0 +1,14 @@
+C:\Users\xivo\Documents\yaar 2\W01.1.C01\bin\Debug\net7.0\W01.1.C01.exe
+C:\Users\xivo\Documents\yaar 2\W01.1.C01\bin\Debug\net7.0\W01.1.C01.deps.json
+C:\Users\xivo\Documents\yaar 2\W01.1.C01\bin\Debug\net7.0\W01.1.C01.runtimeconfig.json
+C:\Users\xivo\Documents\yaar 2\W01.1.C01\bin\Debug\net7.0\W01.1.C01.dll
+C:\Users\xivo\Documents\yaar 2\W01.1.C01\bin\Debug\net7.0\W01.1.C01.pdb
+C:\Users\xivo\Documents\yaar 2\W01.1.C01\obj\Debug\net7.0\W01.1.C01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xivo\Documents\yaar 2\W01.1.C01\obj\Debug\net7.0\W01.1.C01.AssemblyInfoInputs.cache
+C:\Users\xivo\Documents\yaar 2\W01.1.C01\obj\Debug\net7.0\W01.1.C01.AssemblyInfo.cs
+C:\Users\xivo\Documents\yaar 2\W01.1.C01\obj\Debug\net7.0\W01.1.C01.csproj.CoreCompileInputs.cache
+C:\Users\xivo\Documents\yaar 2\W01.1.C01\obj\Debug\net7.0\W01.1.C01.dll
+C:\Users\xivo\Documents\yaar 2\W01.1.C01\obj\Debug\net7.0\refint\W01.1.C01.dll
+C:\Users\xivo\Documents\yaar 2\W01.1.C01\obj\Debug\net7.0\W01.1.C01.pdb
+C:\Users\xivo\Documents\yaar 2\W01.1.C01\obj\Debug\net7.0\W01.1.C01.genruntimeconfig.cache
+C:\Users\xivo\Documents\yaar 2\W01.1.C01\obj\Debug\net7.0\ref\W01.1.C01.dll
